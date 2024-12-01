@@ -2,6 +2,7 @@
 
 This project implements a multi-threaded proxy server in C, leveraging semaphores, threading, and caching to efficiently handle multiple client requests. The UML diagram below illustrates the workflow of the proxy server.
 
+![UML](https://github.com/user-attachments/assets/5c8c14b3-13fe-45b6-bc5f-2394a0173999)
 
 
 **Project Theory**
